@@ -28,4 +28,3 @@ The system implements relational database design using primary keys and foreign 
 - Views
 - Transactions
 
-## 📂 Project Structure
